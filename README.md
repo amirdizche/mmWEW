@@ -1,2 +1,4 @@
 # mmWave_early_warning
-Early Warning of mmWave LoS Blockage using Machine Learning and Diffrraction Properties
+## Early Warning of mmWave Signal Blockage UsingDiffraction Properties and Machine Learning
+------------------------------------------------------------------------------------------
+This repo includes the Supplementary Material for the paper "Early Warning of mmWave Signal Blockage Using Diffraction Properties and Machine Learning"
