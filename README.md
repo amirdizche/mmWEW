@@ -3,4 +3,4 @@
 ------------------------------------------------------------------------------------------
 This repo includes the Supplementary Material for the paper "Early Warning of mmWave Signal Blockage Using Diffraction Properties and Machine Learning".
 
-[a link](https://github.com/amirdizche/mmWEW/blob/main/mmWave_EW_ML_supp.pdf)
+[The Supplementary Document PDF file](https://github.com/amirdizche/mmWEW/blob/main/mmWave_EW_ML_supp.pdf)
